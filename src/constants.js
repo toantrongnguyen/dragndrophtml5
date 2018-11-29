@@ -1,0 +1,65 @@
+export const fileData = [
+  {
+    id: 9,
+    name: 'cover.png',
+    level: 0,
+    parentId: null,
+  },
+  {
+    id: 59,
+    intermediary_id: 'de699ef7-0e90-4cd1-b8eb-a764a0ea8af8',
+    name: 'new.png',
+    level: 0,
+    parentId: null,
+  },
+  {
+    id: 44,
+    intermediary_id: 'de699ef7-0e90-4cd1-b8eb-a764a0ea8af8',
+    name: 'nov-13-74732625.jpg',
+    level: 0,
+    parentId: null,
+  },
+  {
+    id: 614,
+    name: 'img',
+    level: 0,
+    parentId: null,
+    children: [
+      {
+        id: 32,
+        intermediary_id: 'de699ef7-0e90-4cd1-b8eb-a764a0ea8af8',
+        name: 'Screen Shot 2018-06-21 at 10.55.09 AM.png',
+        level: 1,
+        parentId: 614,
+      },
+      {
+        id: 27,
+        intermediary_id: 'de699ef7-0e90-4cd1-b8eb-a764a0ea8af8',
+        name: 'Screen Shot 2018-05-25 at 3.30.56 PM.png',
+        level: 1,
+        parentId: 614,
+      },
+      {
+        id: 14,
+        intermediary_id: 'de699ef7-0e90-4cd1-b8eb-a764a0ea8af8',
+        name: '2602-3-video.mp4',
+        level: 1,
+        parentId: 614,
+      },
+      {
+        id: 45,
+        intermediary_id: 'de699ef7-0e90-4cd1-b8eb-a764a0ea8af8',
+        name: 'oct15-13-74732625.jpg',
+        level: 1,
+        parentId: 614,
+      },
+    ],
+  },
+  {
+    id: 624,
+    name: 'doc',
+    level: 0,
+    children: [],
+    parentId: null,
+  },
+]
