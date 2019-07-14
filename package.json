@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "immer": "^1.8.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.14",
     "node-sass": "^4.10.0",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
