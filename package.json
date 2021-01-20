@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "immer": "^1.8.0",
+    "immer": "^8.0.1",
     "lodash": "^4.17.14",
     "node-sass": "^4.10.0",
     "prop-types": "^15.6.2",
